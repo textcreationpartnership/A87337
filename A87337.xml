@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why this kingdom, as all others: and the Parliaments and people of this kingdom, as all others, whether Christian or heathen. And especially such as hould predestination ought to adhere to their kings, whether good or bad.</title>
+            <author>I. I., faithful subject to his King and welwisher to his Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87337</idno>
+            <idno type="STC">Wing I7</idno>
+            <idno type="STC">Thomason E124_13</idno>
+            <idno type="STC">ESTC R5308</idno>
+            <idno type="EEBO-CITATION">99872834</idno>
+            <idno type="PROQUEST">99872834</idno>
+            <idno type="VID">125280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125280)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why this kingdom, as all others: and the Parliaments and people of this kingdom, as all others, whether Christian or heathen. And especially such as hould predestination ought to adhere to their kings, whether good or bad.</title>
+                  <author>I. I., faithful subject to his King and welwisher to his Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Stephen Bulkley,</publisher>
+                  <pubPlace>Printed at York :</pubPlace>
+                  <date>1642. With lisence.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: Collected by I. I. a faithful Subject to his King and welwisher to his Parliament, to the use of all true Protestants.</note>
+                  <note>Annotation on Thomason copy: "Octob: 25".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125280:1" rendition="simple:additions"/>
+            <p>REASONS WHY THIS KINGDOM, AS ALL OTHERS: AND THE PARLIAMENTS And People of this KINGDOM, As all Others, Whether CHRISTIAN OR HEATHEN: And eſpecially ſuch as hould Predeſtina<g ref="char:EOLhyphen"/>tion ought to Adhere to their Kings, Whether Good or Bad.</p>
+            <p>Printed at <hi>York</hi> by <hi>Stephen Bulkley,</hi> 1642. <hi>With Liſence.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125280:2"/>
+            <pb facs="tcp:125280:2"/>
+            <head>Reaſons why this Kingdom as all others, and the Parliaments and People of this Kingdom, as all others, &amp;c. ought to adhere to their Kings whether good or bad.</head>
+            <p>FIrſt becauſe Kings are Elected and called of God in Chriſt before the Foundation of the World, to the Office, Digni<g ref="char:EOLhyphen"/>ty, and Vocation of Kings, to govern his Church, King<g ref="char:EOLhyphen"/>dom and People, while the World endureth. Nor can the wiſdom or Power of Men make, prevent, or alter Kings or Times, as appeareth by the Scriptures enſuing.</p>
+            <p>
+               <hi>Thou ſhalt make him King over thee whom the Lord thy God ſhall chuſe,</hi> Deut. 17.15. <hi>I will ſend thee a Man out of the Land of</hi> Benja<g ref="char:EOLhyphen"/>men, <hi>him ſhalt thou Annoynt,</hi> 1 Sam. 7.16. <hi>See, this is the Man of whom I ſpake to thee, he ſhall rule my People,</hi> verſ. 17. <hi>I will Rent out of the hands of</hi> Solomon, <hi>and will give ten Tribes to thee,</hi> 1 King. 7.31. <hi>And Kings ſhall be thy nurcing Fathers, and queens thy Narces. Thou ſhalt know I am the Lord thy God,</hi> Eſay 49.23. <hi>It was the Ordinance of the Lord that he might performe his ſaying which he had ſpoken to</hi> Ahijah <hi>the Shunomite,</hi> 1 King. 12.15. <hi>The name of God be Prayſed for ever and ever, for wiſedom and ſtrength is his, and he changeth the times and ſeaſons he taketh away Kings, he ſetteth up Kings,</hi> Dan, 2.20. <hi>Heare yee, O Iſles, hearken yee People from far, the Lord hath called me from the Wombe, and made mention of my name from my Mothers belly,</hi> Eſay 49.1. <hi>He hath choſen me before</hi> Saul. <hi>According to the foreknowledge of God the Father,</hi> 1 Pet. 1.2. <hi>He hath choſen us in Chriſt before the Foundation of the World,</hi> Epheſ. 1.4. <hi>That the pur<g ref="char:EOLhyphen"/>poſe of God might remain according to Election,</hi> Rom. 9.11.</p>
+            <p>Secondly, Becauſe this Kingdom, as all others, and the power and glory thereof, is the Right and Inheritance of God in chief, as appea<g ref="char:EOLhyphen"/>reth by the concluſion of the Lords Prayer. And he only giveth the deputation thereof to thoſe whom he hath Elected, and called ther<g ref="char:EOLhyphen"/>unto, and endued with gifts and graces ſuteable to that calling, to rule and govern the ſame; by which gifts they are made and known to be other Men, then any other of any inferiour calling, and ſuch as to whom only God hath imparted and communicated, not onely
+<pb facs="tcp:125280:3"/>
+the Titles and Attributes of his own Prerogative, as thoſe of King<g ref="char:EOLhyphen"/>dom, Power, Might, Majeſty, Honour, glory, &amp;c. which he forbiddeth to be given to any other Creature, and which holy Men and Angels have refuſed to accept or to give to any but Kings, as examples to us to do the like without fear or ſuſpition of Blaſphemy or Idolatry; but alſo the divine efficacy of His own Spirit, Majeſty, and Preſence, That as the Devill is forced to feare and tremble, at the voice and frownes of God; ſo are proud and rebellious men, though faire and ambitious as <hi>Abſalom,</hi> or wiſe and politique as <hi>Achitophell,</hi> often aſtonied and confounded with the Speeches and Countenances of Kings. Let the obſerver thereof, that findeth his Reaſon already captivated, conſider the Scriptures enſuing.</p>
+            <p>
+               <hi>The Kingdoms of the World are our Lords and his Chriſts, and he ſhall raign for evermore,</hi> Revel. 11.15. <hi>He is the King of Kings, and Lord of Lords,</hi> verſ. 16. <hi>Your God is a God of Gods, and King of Kings,</hi> Dan. 2.47. <hi>The moſt High beareth Rule over the Kingdom of Men, he giveth it to whom he will,</hi> Dan. 4.22. <hi>Hath not the Lord Annoynted thee to be Governour of His Inheritance,</hi> 1 Sam. 10.1. <hi>Then the Spirit of the Lord ſhall come upon thee, and thou ſhalt Pro<g ref="char:EOLhyphen"/>phecie with them and be turned to another Man,</hi> 1 Sam. 10.11. <hi>Then the ſpi<g ref="char:EOLhyphen"/>rit of God came upon</hi> Saul, <hi>and they that knew him wondred, ſaying, What is come to the Son of</hi> Kiſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1 Sam. 11.6. &amp; 1 Sam, 10.15. <hi>And</hi> Saul <hi>was afraid of</hi> David, <hi>becauſe the Lord was with him, and was de<g ref="char:EOLhyphen"/>parted from</hi> Saul, 1 Sam. 18.12. <hi>Then</hi> Saul <hi>ſaw and underſtood that the Lord was with</hi> David, verſ. 28. <hi>I have ſaid yee are gods, and yee all are Children of the moſt High,</hi> Pſal. 82.6. <hi>O King, thou art a King of Kings, for the God of Heaven hath given thee a Kingdome, power, ſtrength, and Glory,</hi> Dan. 2.37. <hi>The moſt high God gave thy Father a Kingdom, and Majeſty, and Honour, and Glory. And for the Majeſty that he gave him, all People, Nations, and Languages trem<g ref="char:EOLhyphen"/>bled, and feared before him; he put to death whom he would, whom he would he ſet up, and whom he would he put down,</hi> Dan. 5 27. <hi>I Coun<g ref="char:EOLhyphen"/>ſell thee, keep the Kings command, and that in reſpect of the Oath of God,</hi> Eccleſ. 8.2. <hi>Submit, &amp;c. to the King as Supreme, &amp;c. Feare God, Honour the King,</hi> 1 Pet. 2.13 14. <hi>Not onely for wrath, but alſo for Conſcience ſake.</hi> Rom. 13, 5,</p>
+            <p>Thirdly, Becauſe it is a damnable ſinne, proper to this later and moſt erring age to think, much more to ſpeak, and much more then
+<pb facs="tcp:125280:3"/>
+that to write, and perſwade others to ſpeak and write evill of Kings, or which is worſe, to ſlander them, and worſt of all to rebell, or, but to take defenſive Arms againſt them, though upon apparant force much more upon ſuggeſted feares and preſumptions. Wherefore let him that is ſo full of Reaſons that he thinks it reaſonable, that if he ſhould ſuſpect his Wife when ſhe deſerveth not, he may provoke her to ſin when ſhe would not; conſider what it is to diſtruſt the Kings Juſtice, or rather Gods providence and to provoke both or either to anger. The Scriptures enſuing will partly tell him.</p>
+            <p>
+               <hi>If thou haſt thought evill of the King, lay thine hand upon thy mouth,</hi> Prov. 30.32. <hi>Thou ſhalt not ſpeak evill of the Ruler of thy People,</hi> Acts 23.5. <hi>Where the word of a King is there is power, and who may ſay unto him, what doſt thou?</hi> Eccleſ. 8.4. <hi>Who therefore reſiſteth the power, reſiſteth the Ordinance of God, and they that reſiſt ſhall receive to themſelves damnation.</hi> Rom. 13.1.2. <hi>But there ſhall be falſe teachers among you, which privily ſhall bring in damnable He<g ref="char:EOLhyphen"/>reſies and bring upon themſelves ſwift damnation, and many ſhall follow their deſtructions, &amp;c.</hi> 2 Pet. 1.2. <hi>Theſe filthy Dreamers deſpiſe Do<g ref="char:EOLhyphen"/>minion and ſpeak evill of Dignities,</hi> Jude 8. <hi>They ſhall periſh in the gain-ſaying of</hi> Core, verſ. 11. <hi>Preſumptuous are they, ſelf-willed, and ſhall utterly periſh in their own corruption,</hi> 2 Pet. 2.10.12. <hi>My Sonne heare no more the Inſtructions that cauſeth to erre from the words of knowledge,</hi> Prov. 19.27. <hi>Thou ſhalt not follow a multitude to do evill, neither agree in a controverſie to decline after many to overthrow the truth,</hi> Exod. 23.2. <hi>The feare of a King is like the roaring of a Lyon. he that provoketh him to anger, ſinneth againſt his own ſoule,</hi> Prov. 20.2. <hi>My Son, feare the Lord and the King, and meddle not with them that are ſeditious,</hi> Prov. 24.21. <hi>As a Coale maketh burning Coales, and wood a fire, ſo the contentious man is apt to kindle ſtrife,</hi> Prov. 26.21. <hi>When the wicked are increaſed, tranſgreſſion increaſeth, but the Righteous ſhall ſee their fall,</hi> Prov. 29.16.</p>
+            <p>Fourthly, Becauſe the obſervers Reaſons too weake to <hi>Jobs,</hi> and the Parliaments wiſdom too ſhort of <hi>Solomons,</hi> and all humane in<g ref="char:EOLhyphen"/>ventions put together, will never ſerve to circumſcribe Kings or to reforme them, otherwiſe then God ſhall be pleaſed by his own provi<g ref="char:EOLhyphen"/>dence and our Prayers to direct his Annoynted, of whom he is never careleſſe; nor is it but arrogancy and folly in men (eſpecially Sub<g ref="char:EOLhyphen"/>jects and Servants) to aſſume ſuch wiſedome or power, as to attempt
+<pb facs="tcp:125280:4"/>
+ſuch deſignes, as partly may appeare by the Scriptures enſuing.</p>
+            <p>
+               <hi>The Lord is the ſtrength, he is the ſaving ſtrength of his Annoin<g ref="char:EOLhyphen"/>ted,</hi> Pſal. 28.8. <hi>He is the tower of Salvation for his King, and ſheweth mercy to his Annointed,</hi> 2 Sam. 24 51. <hi>I will beat down his foes before his Face, and plague them that hate him; his enemies will I cloath with ſhame, but upon himſelfe ſhall his Crown floriſh,</hi> Pſal. 89.23. &amp; 132.18. <hi>There is no man upon the Earth that can declare the Kings matter,</hi> Dan. 2.10. <hi>The Heavens height, and the Earth in deepneſſe, and the Kings heart can no man ſearch out,</hi> Prov. 25.3. <hi>The Kings heart is in the Hands of the Lord as the Rivers of Waters, he turneth is whither<g ref="char:EOLhyphen"/>ſoever it pleaſeth him,</hi> Prov. 21.</p>
+            <p>
+               <hi>The ſecret which the King hath demanded can neither the wiſe, &amp;c. declare to the King, but there is a God in Heaven that revealeth ſe<g ref="char:EOLhyphen"/>crets and ſheweth the King</hi> Nebuchadnezzar <hi>what ſhall be in the later daies,</hi> Dan. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.27.28. <hi>As for me this ſecret is not ſhewed me for my wiſedome that I have more then any other living, but onely to ſhew the King the Interpretation, and that thou mighteſt know the thoughts of thine Heart,</hi> verſ. 30.</p>
+            <p>
+               <hi>Hath not God made the wiſedom of this World fooliſhneſſe,</hi> 1 Cor. 1.20. <hi>I will deſtroy the wiſedome of the wiſe, and will caſt away the under<g ref="char:EOLhyphen"/>ſtanding of the prudent,</hi> verſ. 29.</p>
+            <p>I <hi>am counſell and wiſedom,</hi> I <hi>am underſtanding and</hi> I <hi>have ſtrength, by me Kings Raign, and Princes decree Juſtice; by me Princes Kule, and all the Nobles, and all the Judges of the Earth,</hi> Prov. 8.14.15.16. <hi>The unthrifty man and the wicked man walketh with a froward mouth, he maketh a ſigne with his eyes, he ſignifieth with his feet, he inſtru<g ref="char:EOLhyphen"/>cteth with his fingers. Lewd things are in his heart, he imagineth evill at all time, and raiſeth up contentions,</hi> Prov. 6.12.13. <hi>But my Lord the King is as an</hi> Angell <hi>of God,</hi> 2 Sam. 19.27.</p>
+            <p>Fifthly, Becauſe to Rebell againſt the King or to deſert him in things good or indifferent, is to renounce God and his Ordinance, Chriſt his Commandements and examples, and the Apoſtles and Martyrs whoſe conqueſt were ſufferings, even the moſt ignominious and cruell deaths, and to become the ſon of <hi>Beliall,</hi> that is, the Devill, Gods firſt Rebell, with whom Saint <hi>Paul</hi> asketh what agreement hath Chriſt, &amp;c. and to periſh with ſuch as did ſo. Such were they that ſaid of <hi>Saul.</hi> How ſhall he ſave us? 1 <hi>Sam.</hi> 10.26. Such was <hi>She<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> the ſon of <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chri,</hi> that firſt ſaid, Every man to his Tent O Iſrael,
+<pb facs="tcp:125280:4"/>
+2. <hi>Sam.</hi> 20.1. Such was <hi>Naball</hi> the rich foole, of whom his ſervants ſaid, Evill will ſurely come upon our Maſter, 1 <hi>Sam.</hi> 17.25. Such were they that followed <hi>Jeroboam,</hi> whom I beleive the obſerver calleth his Iſrael, and his Robbini, whom he will not have called Round-heads; but ſuch <hi>David</hi> called Thornes, that ſhould be thruſt away, 2 <hi>Sam.</hi> 24.6. And ſo they proved Thorns to prick one another, every ſuceſ<g ref="char:EOLhyphen"/>ſor King for the moſt part thruſting his Prediceſſor from his Throne by treaſon and rebellion, untill God at laſt thruſt them and their People under the Aſſirian captivity, whence they never returned; For God ſaid I will no more have pitty upon the Houſe of Iſrael, but I will utterly take them away, <hi>Hoſea</hi> 1.6. Hereupon I wiſh ſuch ob<g ref="char:EOLhyphen"/>ſerving Iſraelites as put us ſo much and ſo often in mind with the depoſition of King <hi>Richard</hi> the ſecond, to obſerve and remember alſo, that though <hi>Samaria</hi> went under the name of Iſrael, after their defection from <hi>Roboam,</hi> untill their deſtruction in name and liberty under the Aſſirians. It was but a neſt of Hydra's and a ſtage of Re<g ref="char:EOLhyphen"/>bellions, treaſons, warres, famines, and all kinds of calamities all that while. And ſo, though <hi>England</hi> was Governed under the name of <hi>Plantagenett,</hi> after the declenſion from King <hi>Richard</hi> the ſecond, till the redemption under King <hi>Henry</hi> the ſeventh; it was but a Labyrinth of Diviſions between the Families of <hi>York</hi> and <hi>Lancaſter</hi> all that while, from the like of which miſeries, O Lord ſave thy People and bleſſe thine Inheritance.</p>
+            <p>Sixthly and laſtly, Becauſe this Kingdome ever did adheare to Kings; And no Parliament (as the obſerver ſaith truely in that point) did ever deſert them, but did confide in them and hold them<g ref="char:EOLhyphen"/>ſelves ſo bound by Gods Commandements and the Fundamentall Laws of <hi>England,</hi> as appeareth by the few collections enſuing.</p>
+            <p>The King is a mixt Perſon, becauſe he hath both Eccleſiaſticall and Temporall Juriſdiction, <hi>Sir Edward Cook. lib. de Jure Regis Ec<g ref="char:EOLhyphen"/>cleſiaſtico, fol.</hi> 28. <hi>relating to</hi> 10. H. 7. 18.</p>
+            <p>By an Act of Parliament made 24. <hi>H.</hi> 8. It is declared, That whereas by divers old and authentick Hiſtories and Chronicles, It was manifeſtly declared and expreſſed, that the Realm of <hi>England</hi> is an Empire and ſo hath been accepted in the World, Governed by one ſupreame head and King, having the dignity and Royall eſtate of the Imperiall Crown of the ſame; unto whom a body po<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ique, compact of all ſorts and degrees of People, divided in
+<pb facs="tcp:125280:5"/>
+tearmes and by names of Spirituality and Temporality, been bound and ought to bear next to God a naturall and humble obedience; he being alſo inſtitute and furniſhed by the goodneſſe and fur<g ref="char:EOLhyphen"/>therance of Almighty God with plenary, whole, and entire power, preheminence, authority, prerogative and Juriſdiction, to render and yeeld Juſtice and finall determination to all manner of folks reſiant within this Realme, in all cauſes, matters, debates, and con<g ref="char:EOLhyphen"/>tentions. See the Statute at large.</p>
+            <p>The King who is the Vicar of the higheſt King, is ordained to this end, that he ſhould govern and rule the Kingdom and Peo<g ref="char:EOLhyphen"/>ple of the Land, and above all things, the holy Church, and defend the ſame from wrong-doers, and root out workers of miſchiefe. See King <hi>Edward</hi> the Confeſſor his Laws before the Conqueſt, <hi>c.</hi> 19.</p>
+            <p>The perſwading or withdrawing the Subjects obedience from the King, is Treaſon by Common-Law without controverſie, ſaith Sir <hi>Edward Cook</hi> in his ſaid Book, <hi>de Jur. Reg. Eccleſiaſtico. fol.</hi> 38. <hi>a.</hi>
+            </p>
+            <p>It appears by the ancient Common-Laws of this Realme, by the reſolution and Judgement of the Judges and Sages of the Laws of <hi>England</hi> as by authority of many Acts of Parliaments ancient, and of later times, that the King is the onely ſupream governer, as well over Eccleſiaſticall Perſons and in Eccleſiaſtical cauſes as Temporall with<g ref="char:EOLhyphen"/>in this Realm To the keeping of which Laws both the King and the Subjects are ſworn. <hi>Sir Edward Cook</hi> in the ſame Book, <hi>fol.</hi> 40. <hi>b.</hi>
+            </p>
+            <p>The queens power within her Realms and Dominions, is the high<g ref="char:EOLhyphen"/>eſt power under God, to whom all men in the ſame Realm and Do<g ref="char:EOLhyphen"/>minions owe moſt Loyalty and Obedience afore and above all <hi>Po<g ref="char:EOLhyphen"/>tentates</hi> in Earth. <hi>See</hi> queen <hi>Elizabeths</hi> Injunctions to her Cler<g ref="char:EOLhyphen"/>gy and Layitie Land Statute made the firſt of her Raign to that effect.</p>
+            <p>If any man imagine the death of the King Prince, Princeſſe or any heare apparant to the Crown, or kill the Kings Meſſenger in his Meſ<g ref="char:EOLhyphen"/>ſage or any one that rideth with men to ayd the King or if any man affirme by writing, or other Act, that the King is not ſupream head of the Church of <hi>England,</hi> or if any imagine to deprive the King of his eſtate Royall or of the Titles of his Realme. It is high Treaſon. <hi>Ro<g ref="char:EOLhyphen"/>bert Brook</hi> Serjeant at Law and Recorder of <hi>London,</hi> in his Reading upon <hi>Magna Charta. c.</hi> 17. ſee his Book in Print, <hi>fol.</hi> 1.</p>
+            <p>If any keep War againſt the King in his Realm, is high Treaſon by Statude, 25. <hi>Edw,</hi> 2. Let us hear the end of all, <hi>Fear God, for this is the whole duty of man. Eccl.</hi> 12.13. Collected by I.I. a faithful Sub<g ref="char:EOLhyphen"/>ject to his King and welwiſher to his Parliament, to the uſe of all true Proteſtants.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
